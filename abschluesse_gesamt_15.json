@@ -1,0 +1,542 @@
+{
+  "data": {
+    "allRegions": {
+      "regions": [
+        {
+          "name": "Düsseldorf",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5747,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Duisburg",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4904,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Essen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 6059,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Krefeld",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2767,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Mönchengladbach",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3176,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Mülheim an der Ruhr",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1722,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Oberhausen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2221,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Remscheid",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1417,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Solingen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1789,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Wuppertal",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3772,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Kleve",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3380,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Mettmann",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5160,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rhein-Kreis Neuss",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5096,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Viersen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3578,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Wesel",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5235,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bonn",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4339,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Köln",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 10106,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Leverkusen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1889,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Städteregion Aachen (einschl. Stadt Aachen)",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 6177,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Aachen",
+          "BILABS": []
+        },
+        {
+          "name": "Düren",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3163,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rhein-Erft-Kreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5097,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Euskirchen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2374,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Heinsberg",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3188,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Oberbergischer Kreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3721,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rheinisch-Bergischer Kreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2986,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rhein-Sieg-Kreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 6534,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bottrop",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1184,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Gelsenkirchen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3118,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Münster",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3394,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Borken",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5180,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Coesfeld",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2853,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Recklinghausen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 6926,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Steinfurt",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 6074,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Warendorf",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3730,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bielefeld",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4309,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Gütersloh",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4620,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Herford",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3259,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Höxter",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2130,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Lippe",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4080,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Minden-Lübbecke",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4259,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Paderborn",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3853,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bochum",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3921,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Dortmund",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 6173,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Hagen",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2407,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Hamm",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 2202,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Herne",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1673,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Ennepe-Ruhr-Kreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3350,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Hochsauerlandkreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3234,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Märkischer Kreis",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 5212,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Olpe",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 1842,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Siegen-Wittgenstein",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3578,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Soest",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 3964,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Unna",
+          "BILABS": [
+            {
+              "GES": null,
+              "value": 4984,
+              "year": 2015
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

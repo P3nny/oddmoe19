@@ -1,0 +1,542 @@
+{
+  "data": {
+    "allRegions": {
+      "regions": [
+        {
+          "name": "Düsseldorf",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 612178,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Duisburg",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 491231,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Essen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 582624,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Krefeld",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 225144,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Mönchengladbach",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 259996,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Mülheim an der Ruhr",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 169278,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Oberhausen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 210934,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Remscheid",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 109499,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Solingen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 158726,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Wuppertal",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 350046,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Kleve",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 310337,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Mettmann",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 483279,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rhein-Kreis Neuss",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 450026,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Viersen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 297661,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Wesel",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 462664,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bonn",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 318809,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Köln",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 1060582,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Leverkusen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 163487,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Städteregion Aachen (einschl. Stadt Aachen)",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 553922,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Aachen",
+          "BEVSTD": []
+        },
+        {
+          "name": "Düren",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 262828,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rhein-Erft-Kreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 466657,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Euskirchen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 191165,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Heinsberg",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 252527,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Oberbergischer Kreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 273452,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rheinisch-Bergischer Kreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 282729,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Rhein-Sieg-Kreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 596213,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bottrop",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 117143,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Gelsenkirchen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 260368,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Münster",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 310039,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Borken",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 369666,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Coesfeld",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 218401,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Recklinghausen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 617807,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Steinfurt",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 443374,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Warendorf",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 277431,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bielefeld",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 333090,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Gütersloh",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 360642,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Herford",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 252122,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Höxter",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 144010,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Lippe",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 350750,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Minden-Lübbecke",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 313050,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Paderborn",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 304332,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Bochum",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 364742,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Dortmund",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 586181,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Hagen",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 189044,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Hamm",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 179397,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Herne",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 155851,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Ennepe-Ruhr-Kreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 325954,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Hochsauerlandkreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 263762,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Märkischer Kreis",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 416171,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Olpe",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 136365,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Siegen-Wittgenstein",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 280800,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Soest",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 302995,
+              "year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Unna",
+          "BEVSTD": [
+            {
+              "GES": null,
+              "value": 396035,
+              "year": 2015
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
